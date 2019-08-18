@@ -1,0 +1,33 @@
+.bg
+{
+    background-color: #493A77;
+}
+
+.fadeIn
+{
+    display: none;
+}
+
+img
+{
+    margin: auto;
+    width: 65%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#logo
+{
+    height: 350px;
+}
+
+.lead
+{
+    color: white;
+    text-align: center;
+}
+
+iframe
+{
+    margin-left: 30%;
+}

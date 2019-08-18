@@ -1,0 +1,1 @@
+window.onload = () => $(".fadeIn").fadeIn(2500);
